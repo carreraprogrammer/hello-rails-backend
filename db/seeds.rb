@@ -1,7 +1,22 @@
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the bin/rails db:seed command (or created alongside the database with db:setup).
-#
-# Examples:
-#
-#   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
-#   Character.create(name: "Luke", movie: movies.first)
+# frozen_string_literal: true
+
+Greeting.create(message: 'Believe in yourself and your abilities.')
+Greeting.create(message: 'Every day is a new opportunity to achieve greatness.')
+Greeting.create(message: 'You have the power to make a positive impact.')
+Greeting.create(message: 'Stay focused and never give up on your dreams.')
+Greeting.create(message: 'Embrace challenges as opportunities for growth.')
+Greeting.create(message: 'Your hard work and determination will pay off.')
+Greeting.create(message: 'Success is the result of your dedication and effort.')
+Greeting.create(message: 'Keep moving forward, one step at a time.')
+Greeting.create(message: 'Chase your goals with passion and enthusiasm.')
+Greeting.create(message: 'You are capable of achieving anything you set your mind to.')
+Greeting.create(message: 'Stay positive and spread kindness wherever you go.')
+Greeting.create(message: 'Celebrate your achievements, no matter how small.')
+Greeting.create(message: 'Your journey is unique and worth celebrating.')
+Greeting.create(message: 'Find joy in the little things each day.')
+Greeting.create(message: 'You are stronger than you think.')
+Greeting.create(message: 'Make today better than yesterday.')
+Greeting.create(message: 'The world is full of possibilities for you.')
+Greeting.create(message: 'Your potential is limitless.')
+Greeting.create(message: 'Be fearless in the pursuit of your dreams.')
+Greeting.create(message: 'You are capable of greatness.')
